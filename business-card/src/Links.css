@@ -1,0 +1,11 @@
+.links img {
+    width: 2em;
+    height: 2em;
+    filter: invert(50%) sepia(2%) saturate(17%) hue-rotate(322deg) brightness(99%) contrast(81%);
+    margin-right: 10px;
+    margin-top: 15px;
+}
+
+.links{
+    display: flex;
+}
