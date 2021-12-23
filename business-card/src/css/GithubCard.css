@@ -5,7 +5,7 @@
     margin: auto;
 }
 .github-card {
-    width: 50%;
+    width: 30vh;
     font-size: 1em;
     flex: 0 0 auto;         /* ADD */
     margin: 0 auto;
@@ -34,11 +34,12 @@
 
 .github-card--badge {
     position: absolute;
-    color: black;
+    color: white;
+    background-color: #7f7f7f;
     margin: 1%;
-    background-color: white;
     padding: 5px 7px;
-    border-radius: 2px;
+    border-radius: 5px;
+    border-color: white;
     font-weight: bold;
     font-size: 0.75em;
 
