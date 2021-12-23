@@ -8,7 +8,7 @@ export default function GitHubCard(props) {
         <div className="github-card">
             <a href={props.item.link}>
             <div className="github-card--badge">⭐️ {props.item.githubStars}</div>
-            <img src={imageLocation} className="card--image" />
+            <img src={imageLocation} className="card--image" alt="img"/>
             <h3 className="card--title">{props.item.title}</h3>
             <p className="card--title">{props.item.description}</p>
             </a>
