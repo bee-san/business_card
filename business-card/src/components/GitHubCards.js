@@ -1,11 +1,11 @@
-import GitHubCard from './GitHubCard'
+import Card from './Card'
 import data from "../Data/Github"
 import "../css/githubProjects.css"
 
 export default function GitHubCards(props){
     const cards = data.map(item => {
         return (
-            <GitHubCard
+            <Card
                 key={item.id}
                 item={item}
             />
@@ -14,7 +14,7 @@ export default function GitHubCards(props){
     return (
         <div className="githubProjects">
             <h2>Things I Invented</h2>
-            <div className="githubProjectsList">
+            <div className="CardsList">
             {cards}
             </div>
         </div>
