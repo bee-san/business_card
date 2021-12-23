@@ -1,5 +1,5 @@
 /* eslint import/no-anonymous-default-export: [2, {"allowObject": true}] */
-export default [
+const GitHub = [
     {
         id: 1,
         title: "Ciphey",
@@ -9,3 +9,5 @@ export default [
         link: "https://github.com/ciphey/ciphey"
     },
 ]
+
+export default GitHub
