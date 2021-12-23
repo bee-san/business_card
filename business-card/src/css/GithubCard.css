@@ -1,7 +1,7 @@
 .githubProjectsList {
-    display: grid;
-    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
-    flex-wrap: nowrap;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
     overflow-x: auto;
     margin: auto;
 }
@@ -31,6 +31,7 @@
     padding: 5px 7px;
     border-radius: 2px;
     font-weight: bold;
+    position: fixed;
 }
 
 .github-card--badge {

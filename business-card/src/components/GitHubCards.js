@@ -15,7 +15,7 @@ export default function GitHubCards(props){
         <div className="githubProjects">
             <h2>Things I Invented</h2>
             <div className="githubProjectsList">
-                {cards}
+            {cards}
             </div>
         </div>
     )

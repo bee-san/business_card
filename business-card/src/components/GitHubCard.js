@@ -2,6 +2,7 @@ import React from "react"
 import '../css/GithubCard.css'
 import '../images/ciphey.png'
 
+
 export default function GitHubCard(props) {    
     const imageLocation = require(`../images/${props.item.coverImg}`)
     return (
@@ -12,6 +13,7 @@ export default function GitHubCard(props) {
             <h3 className="card--title">{props.item.title}</h3>
             <p className="card--title">{props.item.description}</p>
             </a>
+
         </div>
     )
 }
