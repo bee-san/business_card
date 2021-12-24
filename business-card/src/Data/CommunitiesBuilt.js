@@ -3,7 +3,7 @@ const Communities = [
     {
         id: 1,
         title: "Cyber Security Society",
-        githubStars: "0 Members to 300",
+        githubStars: "0 Members to 300 Paying Members",
         description: "Co-founder of the Cyber Security Society at my university",
         coverImg: "cybersoc.svg",
         link: "https://www.liverpoolguild.org/groups/cyber-security"
@@ -12,7 +12,7 @@ const Communities = [
         id: 2,
         title: "TryHackMe Discord",
         githubStars: "~500 members to 100k+",
-        description: "One of the lead moderators of the TryHackMe Discord taking it from almost no members to 100k+ in 2 years.",
+        description: "One of the moderators and original community mentors of the TryHackMe Discord taking it from almost no members to 100k+ in 2 years.",
         coverImg: "tryhackme.svg",
         link: "https://discord.gg/tryhackme"
     },
