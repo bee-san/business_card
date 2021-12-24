@@ -32,14 +32,14 @@ const Writing = [
         coverImg: "functional.svg",
         link: "https://skerritt.blog/learn-functional-python-in-10-minutes/"
     },
-    {
+    /*{
         id: 5,
         title: "Technologically Claivoyant Newsletter",
         githubStars: "5700 Subscribers",
         description: "A newsletter I write on the future of technology.",
         coverImg: "tc.svg",
         link: "https://technologicallyclairvoyant.substack.com/"
-    },
+    },*/
 
 ]
 
