@@ -3,7 +3,7 @@ const Communities = [
     {
         id: 1,
         title: "Cyber Security Society",
-        githubStars: "0 Members to 300 Paying Members",
+        githubStars: "0 Members to 300 Paying",
         description: "Co-founder of the Cyber Security Society at my university",
         coverImg: "cybersoc.svg",
         link: "https://www.liverpoolguild.org/groups/cyber-security"
