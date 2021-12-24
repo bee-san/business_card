@@ -13,7 +13,7 @@ const GitHub = [
         title: "RustScan",
         githubStars: "⭐️ 5372 Stars",
         description: "The future of Port Scanning, the world's fastest portscanner without spending $2000 on networking equipment.",
-        coverImg: "rustscan.png",
+        coverImg: "rustscan.svg",
         link: "https://github.com/rustscan/rustscan"
     },
     {
@@ -21,7 +21,7 @@ const GitHub = [
         title: "PyWhat",
         githubStars: "⭐️ 5004 Stars",
         description: "🐸 Identify anything. pyWhat easily lets you identify emails, IP addresses, and more. Feed it a .pcap file or some text and it'll tell you what it is! 🧙‍♀️",
-        coverImg: "what.png",
+        coverImg: "pywhat.svg",
         link: "https://github.com/bee-san/pywhat"
     },
     {
@@ -29,7 +29,7 @@ const GitHub = [
         title: "Name-That-Hash",
         githubStars: "⭐️ 932 Stars",
         description: "🔗 Don't know what type of hash it is? Name That Hash will name that hash type! 🤖 Identify MD5, SHA256 and 300+ other hashes ☄ ",
-        coverImg: "namethathash.png",
+        coverImg: "nth.svg",
         link: "https://github.com/HashPals/Name-That-Hash"
     },
     {
@@ -37,7 +37,7 @@ const GitHub = [
         title: "Search-That-Hash",
         githubStars: "⭐️ 898 Stars",
         description: "🔎Searches Hash APIs to crack your hash quickly🔎 If hash is not found, automatically pipes into HashCat⚡",
-        coverImg: "searchthathash.png",
+        coverImg: "searchthathash.svg",
         link: "https://github.com/HashPals/Search-That-Hash"
     },
 
